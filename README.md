@@ -1,4 +1,4 @@
-# Me? you'd like to know me? <br><sup>Why, thanks for asking!</sup>
+# Me? you'd like to know me? <br>## Why, thanks for asking!
 
 
 - An engineer at heart with a burning passion for Physics, Engineering (duh) and computers.
